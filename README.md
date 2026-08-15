@@ -1,4 +1,4 @@
-# Hi, I'm Valerii Solod 👋
+#👋 Hi, I'm Valerii Solod 
 
 ## 💻 Junior Fullstack Developer
 ![Role](https://img.shields.io/badge/Junior_Fullstack_Developer-Professional-green?style=for-the-badge&logo=github&logoColor=white)
@@ -34,8 +34,8 @@ Fullstack developer with experience in **JavaScript, React, Redux, Node.js, and 
 ---
 
 ### 🍰 Sweet Workshop / Team Project (2026)
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-blue?style=for-the-badge&logo=github)](https://github.com/ValeriySolod/sweet-workshop)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-Online-green?style=for-the-badge&logo=vercel)](https://sweet-workshop.vercel.app)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-blue?style=for-the-badge&logo=github)](https://github.com/ValeriySolod/team-project-04-)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Online-green?style=for-the-badge&logo=vercel)](https://victoriatarasenko1993-max.github.io/team-project-04/)
 
 **Description:** Responsive website for a pastry shop showcasing desserts, cakes, delivery information, FAQ, reviews, and customer interaction sections.  
 **Tech stack:** HTML5, CSS3, JavaScript, Flexbox, responsive layout  
