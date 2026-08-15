@@ -1,5 +1,5 @@
 # ValeriiSolod
-Hi, I'm Valerii Solod
+# Hi, I'm Valerii Solod 👋
 
 Junior Fullstack Developer 
 
