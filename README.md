@@ -21,13 +21,15 @@ Fullstack developer with experience in **JavaScript, React, Redux, Node.js, and 
   
 ## 🚀 Featured Projects
 
+
 ### 📒 NoteHub Auth (2026)
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-blue?style=for-the-badge&logo=github)](https://github.com/ValeriySolod/notehub-auth)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-Online-green?style=for-the-badge&logo=vercel)](https://notehub-auth.vercel.app)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-blue?style=for-the-badge&logo=github)](https://github.com/ValeriySolod/09-auth)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Online-green?style=for-the-badge&logo=vercel)](https://09-auth-swart-tau.vercel.app)
 
 **Description:** Note-management application with authentication, private routes, profile pages, search, pagination, tag filtering, note details, modal preview, and CRUD-related flows.  
 **Tech stack:** Next.js, React, TypeScript, Zustand, TanStack Query, Axios, REST API, CSS Modules, Vercel  
 **Role:** Developer — implemented route-based pages and reusable components, integrated API requests, worked with authentication state, cookies, protected navigation, modal routing, responsive UI, and deployment fixes.
+
 
 ---
 
