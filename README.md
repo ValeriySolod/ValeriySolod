@@ -1,16 +1,15 @@
 # Hi, I'm Valerii Solod 👋
 
 ## 💻 Junior Fullstack Developer
-![Role](https://img.shields.io/badge/Junior_Fullstack_Developer-Growth_Mindset-blueviolet?style=for-the-badge&logo=github&logoColor=white)
+![Role](https://img.shields.io/badge/Junior_Fullstack_Developer-Professional-green?style=for-the-badge&logo=github&logoColor=white)
 
-## 💻 Fullstack Developer
+## ⚙️ Fullstack Developer
 
 Fullstack developer with experience in **JavaScript, React, Redux, Node.js, and MongoDB**.  
 - Skilled in creating **single-page applications (SPA)**.  
 - Experienced in **integrating REST API** and implementing **responsive/adaptive UI components**.  
 - Knowledge of **Agile/Scrum methodologies**, **version control (Git)**, and **performance optimisation techniques**.  
 - Strong **problem-solving skills** and a proactive approach to developing **scalable web solutions**.
-
 
  ## 💼 Tech Stack
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
