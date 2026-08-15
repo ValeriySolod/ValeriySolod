@@ -1,9 +1,7 @@
-# ValeriiSolod
 # Hi, I'm Valerii Solod 👋
 
-
 ## 💻 Junior Fullstack Developer
-![Role](https://img.shields.io/badge/Junior_Fullstack_Developer-Professional-green?style=for-the-badge&logo=github&logoColor=white)
+![Role](https://img.shields.io/badge/Junior_Fullstack_Developer-Growth_Mindset-blueviolet?style=for-the-badge&logo=github&logoColor=white)
 
 ## 💻 Fullstack Developer
 
