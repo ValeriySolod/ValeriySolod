@@ -22,6 +22,18 @@ Fullstack developer with experience in **JavaScript, React, Redux, Node.js, and 
 ## 🚀 Featured Projects
 
 
+### 🖥️ Prisma Function
+
+**Project type:** Commercial project.
+
+![Prisma Function — demonstration preview with synthetic data](assets/prisma-function-demo.png)
+
+**Prisma Function** — desktop software for automated technical data processing and analysis.
+The project includes data import, structured calculations, result validation, report generation, and export of processed information. The application was designed with a focus on reliability, reproducible calculations, clear presentation of results, and convenient installation on Windows.
+**Key areas:** data processing, analytical calculations, validation, reporting, desktop application development, automated workflows, and deployment.
+
+---
+
 ### 📒 NoteHub Auth (2026)
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-blue?style=for-the-badge&logo=github)](https://github.com/ValeriySolod/09-auth)
 [![Live Demo](https://img.shields.io/badge/Live_Demo-Online-green?style=for-the-badge&logo=vercel)](https://09-auth-swart-tau.vercel.app)
